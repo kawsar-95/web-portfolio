@@ -12,7 +12,7 @@ p{
     color: dimgray;
 }
 .name-highlight{
-    color: rgba(0, 255, 255, 0.534);
+    color:goldenrod;
 }
 .half-width{
     width: 40%;
@@ -44,4 +44,14 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.single-experience{
+    box-shadow: 10px  10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
