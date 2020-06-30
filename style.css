@@ -20,6 +20,9 @@ p{
     margin-left: 5%;
     padding-left: 2%;
 }
+img.rounded-corner {
+    border-radius: 50%;
+  }
 .half-width img{
     width: 100%;
 }
